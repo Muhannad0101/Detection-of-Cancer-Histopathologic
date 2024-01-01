@@ -14,8 +14,6 @@ Our model's training and validation are grounded in comprehensive datasets compr
 
 The methodology employed in our project revolves around a state-of-the-art deep learning architecture. We utilize convolutional neural networks (CNNs) to automatically extract hierarchical features from histopathologic images. The model undergoes a rigorous training process, learning to differentiate between benign and malignant tissue based on these extracted features. Transfer learning techniques are also incorporated to leverage knowledge gained from pre-trained models on large image datasets. The training process is followed by thorough validation and fine-tuning to optimize the model's performance.
 
-To enhance interpretability, we implement techniques that allow us to visualize and understand the features influencing the model's decisions. The model is then deployed with a user-friendly interface, facilitating seamless integration into the workflow of healthcare professionals.
-
 ![images_data](https://github.com/Muhannad0101/Detection-of-Cancer-Histopathologic/assets/102443619/e5aedc86-c1a0-4845-856c-b94b55e7a54a)
 ![hist_model](https://github.com/Muhannad0101/Detection-of-Cancer-Histopathologic/assets/102443619/49f93519-b325-4dab-9cd5-f05094437bfe)
 ![hist_model_img](https://github.com/Muhannad0101/Detection-of-Cancer-Histopathologic/assets/102443619/740ae502-7d05-42f3-874a-6fcf8a6240b4)
