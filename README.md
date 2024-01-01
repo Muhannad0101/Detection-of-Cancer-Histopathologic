@@ -16,6 +16,10 @@ The methodology employed in our project revolves around a state-of-the-art deep 
 
 To enhance interpretability, we implement techniques that allow us to visualize and understand the features influencing the model's decisions. The model is then deployed with a user-friendly interface, facilitating seamless integration into the workflow of healthcare professionals.
 
+![images_data](https://github.com/Muhannad0101/Detection-of-Cancer-Histopathologic/assets/102443619/e5aedc86-c1a0-4845-856c-b94b55e7a54a)
+![hist_model](https://github.com/Muhannad0101/Detection-of-Cancer-Histopathologic/assets/102443619/49f93519-b325-4dab-9cd5-f05094437bfe)
+![hist_model_img](https://github.com/Muhannad0101/Detection-of-Cancer-Histopathologic/assets/102443619/740ae502-7d05-42f3-874a-6fcf8a6240b4)
+
 - Key Challenges:
 
 The development of an accurate cancer histopathologic image recognition model presents several challenges:
@@ -27,7 +31,3 @@ Inter- and Intra- Variability: Histopathologic images can exhibit significant va
 Ethical Considerations: Handling sensitive medical data requires strict adherence to ethical guidelines and privacy regulations. Our project prioritizes data security and patient privacy throughout the development and deployment stages.
 
 Clinical Adoption: Convincing healthcare professionals to integrate AI-based tools into their diagnostic workflows may pose a challenge. Addressing concerns related to interpretability, trust, and seamless integration is crucial for successful adoption in clinical settings.
-
-![images_data](https://github.com/Muhannad0101/Detection-of-Cancer-Histopathologic/assets/102443619/e5aedc86-c1a0-4845-856c-b94b55e7a54a)
-![hist_model](https://github.com/Muhannad0101/Detection-of-Cancer-Histopathologic/assets/102443619/49f93519-b325-4dab-9cd5-f05094437bfe)
-![hist_model_img](https://github.com/Muhannad0101/Detection-of-Cancer-Histopathologic/assets/102443619/740ae502-7d05-42f3-874a-6fcf8a6240b4)
